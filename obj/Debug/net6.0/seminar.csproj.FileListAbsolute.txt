@@ -1,0 +1,15 @@
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/bin/Debug/net6.0/seminar
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/bin/Debug/net6.0/seminar.deps.json
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/bin/Debug/net6.0/seminar.runtimeconfig.json
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/bin/Debug/net6.0/seminar.dll
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/bin/Debug/net6.0/seminar.pdb
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.csproj.AssemblyReference.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.AssemblyInfoInputs.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.AssemblyInfo.cs
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.csproj.CoreCompileInputs.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.dll
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/refint/seminar.dll
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.pdb
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/seminar.genruntimeconfig.cache
+/Applications/Учеба РАЗРАБОТЧИК/Знакомство с языками программирования/SeminarC#7/seminar/obj/Debug/net6.0/ref/seminar.dll
